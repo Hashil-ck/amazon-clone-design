@@ -58,7 +58,7 @@ const HomePage = () => {
           <HomePageCard
             title={"Amazon prime"}
             img={
-              "http://image.cdn.ispot.tv/ad/75Jd/amazon-prime-customer-interviews-large-2.jpg"
+              "https://i.blogs.es/318f06/amazon-prime-video-impuesto-digital/840_560.jpg"
             }
             link={"Learn more"}
           />
